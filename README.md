@@ -1,2 +1,2 @@
-# flutter app that take photo and send to php server
- flutter app that take the photo  when the floating button is pressed and the photo is take in the background so no preview. the url need to be up dated the file should be send to saveFile.php
+a flutter app that  takes an selfy without user preview of the camera or the image . and send a post httpmultipartrequest to heroku serever.which will create a folder and stores all the image and the next button is for a get request which will make the server run ml program to detect emotion of the face and returns a json data which is shown int the app
+
